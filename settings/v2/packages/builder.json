@@ -1,0 +1,13 @@
+{
+  "splash-setting": {
+    "displayWatermark": false,
+    "clearColor": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 1
+    },
+    "url": "D:\\Users\\Administrator\\CocosDemo\\assets\\resources\\images\\test2.png",
+    "displayRatio": 0.2
+  }
+}
